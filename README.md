@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Gihan Jayawardhana, a passionate software developer and tech enthusiast.
+I'm Gihan Jayawardhana, a software engineering undergraduate and tech enthusiast.
 
 ## 🔧 Technologies & Tools
 - 🌐 Web: HTML, CSS, JavaScript, React

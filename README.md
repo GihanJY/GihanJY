@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @GihanJY
-- 👀 I’m interested in Game development and App development
-- 🌱 I’m currently learning Software Engineering
+# Hi there! 👋
+I'm Gihan Jayawardhana, a passionate software developer and tech enthusiast.
 
-<!---
-GihanJY/GihanJY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Technologies & Tools
+- 🌐 Web: HTML, CSS, JavaScript, React
+- 📱 Mobile: Flutter, React Native
+- ☁️ Cloud: AWS, Firebase
+- ⚡ Favorite Languages: Java, JavaScript
+
+## 🌱 What I’m Learning
+- Flutter
+- React and React Native
+- MERN Stack
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/gihan-jayawardhana-ab4468262/)
+- [Portfolio](https://yourwebsite.com)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)

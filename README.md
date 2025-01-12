@@ -17,4 +17,4 @@ I'm Gihan Jayawardhana, a software engineering undergraduate and tech enthusiast
 - [LinkedIn](https://www.linkedin.com/in/gihan-jayawardhana-ab4468262/)
 - [Portfolio](https://yourwebsite.com)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GihanJY&show_icons=true)

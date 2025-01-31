@@ -1,7 +1,7 @@
 # Hi there! 
 I'm Gihan Jayawardhana, a software engineering undergraduate and tech enthusiast.
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gihan%Jayawardhana&fontSize=70&animation=fadeIn)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gihan%20Jayawardhana&fontSize=70&animation=fadeIn)
 
 ##  Technologies & Tools
 -  Web: HTML, CSS, JavaScript, React

@@ -6,6 +6,7 @@ I'm Gihan Jayawardhana, a software engineering undergraduate and tech enthusiast
 ##  Technologies & Tools
 -  Web: HTML, CSS, JavaScript, React
 -  Mobile: Flutter, React Native
+-  Game: Unity, Blender
 -  Cloud: AWS, Firebase
 -  Tools: GitHub, Figma, Trello, Postman
 -  Favorite Languages: Java, JavaScript
